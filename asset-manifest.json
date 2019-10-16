@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DeclanBernardin.github.io/static/css/main.9ae904f4.chunk.css",
+    "main.js": "/DeclanBernardin.github.io/static/js/main.c9a4926f.chunk.js",
+    "main.js.map": "/DeclanBernardin.github.io/static/js/main.c9a4926f.chunk.js.map",
+    "runtime-main.js": "/DeclanBernardin.github.io/static/js/runtime-main.7ca986ee.js",
+    "runtime-main.js.map": "/DeclanBernardin.github.io/static/js/runtime-main.7ca986ee.js.map",
+    "static/js/2.38347372.chunk.js": "/DeclanBernardin.github.io/static/js/2.38347372.chunk.js",
+    "static/js/2.38347372.chunk.js.map": "/DeclanBernardin.github.io/static/js/2.38347372.chunk.js.map",
+    "index.html": "/DeclanBernardin.github.io/index.html",
+    "precache-manifest.23d53187f93be95f2f7fae7e009e9790.js": "/DeclanBernardin.github.io/precache-manifest.23d53187f93be95f2f7fae7e009e9790.js",
+    "service-worker.js": "/DeclanBernardin.github.io/service-worker.js",
+    "static/css/main.9ae904f4.chunk.css.map": "/DeclanBernardin.github.io/static/css/main.9ae904f4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca986ee.js",
+    "static/js/2.38347372.chunk.js",
+    "static/css/main.9ae904f4.chunk.css",
+    "static/js/main.c9a4926f.chunk.js"
+  ]
+}
