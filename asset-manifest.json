@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/DeclanBernardin.github.io/static/css/main.9ae904f4.chunk.css",
-    "main.js": "/DeclanBernardin.github.io/static/js/main.c9a4926f.chunk.js",
-    "main.js.map": "/DeclanBernardin.github.io/static/js/main.c9a4926f.chunk.js.map",
-    "runtime-main.js": "/DeclanBernardin.github.io/static/js/runtime-main.7ca986ee.js",
-    "runtime-main.js.map": "/DeclanBernardin.github.io/static/js/runtime-main.7ca986ee.js.map",
-    "static/js/2.38347372.chunk.js": "/DeclanBernardin.github.io/static/js/2.38347372.chunk.js",
-    "static/js/2.38347372.chunk.js.map": "/DeclanBernardin.github.io/static/js/2.38347372.chunk.js.map",
+    "main.css": "/DeclanBernardin.github.io/static/css/main.fd19cc55.chunk.css",
+    "main.js": "/DeclanBernardin.github.io/static/js/main.50ff1cab.chunk.js",
+    "main.js.map": "/DeclanBernardin.github.io/static/js/main.50ff1cab.chunk.js.map",
+    "runtime-main.js": "/DeclanBernardin.github.io/static/js/runtime-main.cfd6e86f.js",
+    "runtime-main.js.map": "/DeclanBernardin.github.io/static/js/runtime-main.cfd6e86f.js.map",
+    "static/js/2.3d9dd628.chunk.js": "/DeclanBernardin.github.io/static/js/2.3d9dd628.chunk.js",
+    "static/js/2.3d9dd628.chunk.js.map": "/DeclanBernardin.github.io/static/js/2.3d9dd628.chunk.js.map",
     "index.html": "/DeclanBernardin.github.io/index.html",
-    "precache-manifest.23d53187f93be95f2f7fae7e009e9790.js": "/DeclanBernardin.github.io/precache-manifest.23d53187f93be95f2f7fae7e009e9790.js",
+    "precache-manifest.4a6bbcac3f78d47baf0ae66be3b9e980.js": "/DeclanBernardin.github.io/precache-manifest.4a6bbcac3f78d47baf0ae66be3b9e980.js",
     "service-worker.js": "/DeclanBernardin.github.io/service-worker.js",
-    "static/css/main.9ae904f4.chunk.css.map": "/DeclanBernardin.github.io/static/css/main.9ae904f4.chunk.css.map"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.7ca986ee.js",
-    "static/js/2.38347372.chunk.js",
-    "static/css/main.9ae904f4.chunk.css",
-    "static/js/main.c9a4926f.chunk.js"
-  ]
+    "static/css/main.fd19cc55.chunk.css.map": "/DeclanBernardin.github.io/static/css/main.fd19cc55.chunk.css.map"
+  }
 }
